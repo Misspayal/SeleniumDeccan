@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[digitalDownload is executed]]>
+    </line>
+    <line>
+      <![CDATA[facebook is executed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully executed facebook testcase]]>
+    </line>
+    <line>
+      <![CDATA[gifts is executed]]>
+    </line>
+    <line>
+      <![CDATA[gifts has delivered]]>
+    </line>
+    <line>
+      <![CDATA[rssLink is executed]]>
+    </line>
+    <line>
+      <![CDATA[Failed rssLink testcase]]>
+    </line>
+    <line>
+      <![CDATA[twitter is executed]]>
+    </line>
+    <line>
+      <![CDATA[Taking time to load twiiter]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-30T14:19:07 IST" name="Default suite" finished-at="2024-07-30T14:20:32 IST" duration-ms="84413">
+    <groups>
+    </groups>
+    <test started-at="2024-07-30T14:19:07 IST" name="Default test" finished-at="2024-07-30T14:20:32 IST" duration-ms="84413">
+      <class name="ExtentReports.FooterDws">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:08 IST" name="preCondition" finished-at="2024-07-30T14:19:28 IST" duration-ms="19880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:28 IST" name="login" finished-at="2024-07-30T14:19:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="digitalDownload()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:28 IST" name="digitalDownload" finished-at="2024-07-30T14:19:32 IST" duration-ms="4524" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[digitalDownload is executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- digitalDownload -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:32 IST" name="logout" finished-at="2024-07-30T14:19:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:32 IST" name="login" finished-at="2024-07-30T14:19:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="facebook()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:32 IST" name="facebook" finished-at="2024-07-30T14:19:54 IST" duration-ms="21273" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[facebook is executed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully executed facebook testcase]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:54 IST" name="logout" finished-at="2024-07-30T14:19:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:54 IST" name="login" finished-at="2024-07-30T14:19:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="gifts()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:19:54 IST" name="gifts" finished-at="2024-07-30T14:20:11 IST" duration-ms="16910" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gifts is executed]]>
+            </line>
+            <line>
+              <![CDATA[gifts has delivered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gifts -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:11 IST" name="logout" finished-at="2024-07-30T14:20:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:11 IST" name="login" finished-at="2024-07-30T14:20:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="rssLink()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:11 IST" name="rssLink" finished-at="2024-07-30T14:20:19 IST" duration-ms="8037" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[rssLink is executed]]>
+            </line>
+            <line>
+              <![CDATA[Failed rssLink testcase]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- rssLink -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:19 IST" name="logout" finished-at="2024-07-30T14:20:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:19 IST" name="login" finished-at="2024-07-30T14:20:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="twitter()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:19 IST" name="twitter" finished-at="2024-07-30T14:20:32 IST" duration-ms="12919" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[twitter is executed]]>
+            </line>
+            <line>
+              <![CDATA[Taking time to load twiiter]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:32 IST" name="logout" finished-at="2024-07-30T14:20:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:ExtentReports.FooterDws@6bbe85a8]" started-at="2024-07-30T14:20:32 IST" name="postCondition" finished-at="2024-07-30T14:20:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- ExtentReports.FooterDws -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
